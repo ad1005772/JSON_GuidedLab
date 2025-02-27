@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\JSON_GuidedLab\\JSON_GuidedLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9300BE07-1E2A-49AC-95FB-7AA51A5A5299}|JSON_GuidedLab\\JSON_GuidedLab.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\json_guidedlab\\json_guidedlab\\json_guidedlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9300BE07-1E2A-49AC-95FB-7AA51A5A5299}|JSON_GuidedLab\\JSON_GuidedLab.csproj|solutionrelative:json_guidedlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9300BE07-1E2A-49AC-95FB-7AA51A5A5299}|JSON_GuidedLab\\JSON_GuidedLab.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\json_guidedlab\\json_guidedlab\\json_guidedlab\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9300BE07-1E2A-49AC-95FB-7AA51A5A5299}|JSON_GuidedLab\\JSON_GuidedLab.csproj|solutionrelative:json_guidedlab\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\JSON_GuidedLab\\JSON_GuidedLab\\JSON_GuidedLab\\Program.cs",
+              "RelativeDocumentMoniker": "JSON_GuidedLab\\Program.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\JSON_GuidedLab\\JSON_GuidedLab\\JSON_GuidedLab\\Program.cs",
+              "RelativeToolTip": "JSON_GuidedLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAADeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:49:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\JSON_GuidedLab\\JSON_GuidedLab\\JSON_GuidedLab\\Person.cs",
+              "RelativeDocumentMoniker": "JSON_GuidedLab\\Person.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\JSON_GuidedLab\\JSON_GuidedLab\\JSON_GuidedLab\\Person.cs",
+              "RelativeToolTip": "JSON_GuidedLab\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:50:59.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
