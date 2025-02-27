@@ -18,6 +18,6 @@ class Program
         Console.WriteLine("Serialized JSON: " + json);
 
         Person deserializedPerson = JsonConvert.DeserializeObject<Person>(json);
-        Console.WriteLine("Deserialized Person: Name - " + deserializedPerson.Name + ", Age - " + deserializedPerson.Age + ", Email - " + deserializedPerson.Email + ", Are they a student? - " + deserializedPerson.isStudent);
+        Console.WriteLine("Deserialized Person: Name - " + deserializedPerson.Name + ", Age - " + deserializedPerson.Age + ", Email - " + deserializedPerson.Email + ", Is Student? - " + deserializedPerson.isStudent);
     }
 }

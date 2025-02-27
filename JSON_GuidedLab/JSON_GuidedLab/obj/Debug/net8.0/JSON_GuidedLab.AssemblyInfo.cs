@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JSON_GuidedLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb81e042e2a759b288aa1a0878473d9b2b42b962")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4797d12aa905f440bf2f403c477ccc56c93a058")]
 [assembly: System.Reflection.AssemblyProductAttribute("JSON_GuidedLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JSON_GuidedLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
